@@ -1,0 +1,19 @@
+{
+  "name": "elmusicandro",
+  "version": "1.0.0",
+  "description": "music discord bot",
+  "main": "src/bot.js",
+  "scripts": {
+    "dev": "node src/bot.js"
+  },
+  "author": "ByteWh1te",
+  "license": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "libsodium-wrappers": "^0.7.13",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
